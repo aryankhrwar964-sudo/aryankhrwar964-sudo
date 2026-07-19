@@ -12,6 +12,8 @@ Hello World!✌️<br>💻 B.Tech CSE Student | Java & C++ | DSA Enthusiast | Bu
 ![](https://streak-stats.demolab.com/?user=aryankhrwar964-sudo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aryankhrwar964-sudo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![Snake animation](https://github.com/harshdubey-ops/harshdubey-ops/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aryankhrwar964-sudo&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
